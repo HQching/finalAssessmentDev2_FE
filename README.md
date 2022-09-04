@@ -7,7 +7,3 @@
 a. [If SaaS Login] - add the email and name to the customer table if it is not already exists.\
 b. [SasS or Local login] - display all the shop orders of the customer with customer name, item name, item quantity and shipping date. (Note, this query will involve 3
 tables).
-
-**Testing email account with shop orders\
-Email : fronteggtesting@gmail.com \
-Password : frontegg1508
